@@ -3,6 +3,8 @@
 .. note::
 
   This page is still under construction; check back soon!
+  
+  Here's the `GIMME tutorial <https://tarheels.live/gimme/tutorials/>`__ in the meantime.
 
 
 GIMME (Group Iterative Multiple Model Estimation)
